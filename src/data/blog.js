@@ -1,5 +1,5 @@
 import logo from "../assets/logo";
-
+// 
 const blogData = {
   name: "Underreacted",
   image: logo,
